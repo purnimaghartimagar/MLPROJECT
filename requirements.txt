@@ -6,7 +6,6 @@ matplotlib
 scikit-learn
 -e.
 setuptools
-catboost
 xgboost
 dill
 flask
